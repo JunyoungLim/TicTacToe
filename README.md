@@ -20,7 +20,7 @@ No specific installation or preparation required. As long as the directory struc
 
 ## Authors
 
-* **Jared Junyoung Lim** - *Project Owner* - [Personal Website](www.junyounglim.com)
+* **Jared Junyoung Lim** - *Project Owner* - [Personal Website](http://www.junyounglim.com)
   * Cornell University '20, Computer Science B.S.
 
 ## Acknowledgments
