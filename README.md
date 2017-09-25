@@ -18,13 +18,9 @@ AI difficulty is based on the depth of recursive logic, in which level 0 has dep
 
 No specific installation or preparation required. As long as the directory structure is maintained, the program will run properly. The main class will be Console.java if the console interface is used, MainGUI if graphic interface is used.
 
-## Built With
-
-* [Gradle](https://gradle.org/) - Dependency Management
-
 ## Authors
 
-* **Jared Junyoung Lim** - *Project Owner* - [Personal Website](https://jaredlim.io)
-  * Cornell University '20, Computer Science B.A.
+* **Jared Junyoung Lim** - *Project Owner* - [Personal Website](https://junyounglim.com)
+  * Cornell University '20, Computer Science B.S.
 
 ## Acknowledgments
